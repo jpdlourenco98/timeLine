@@ -1,9 +1,8 @@
 emotion,time,valence,arousal
-excited,5,0.550,0.890
-joy,15,0.800,0.750
-serene,45,0.700,0.460
-sad,60,0.400,0.400
-distressed,70,0.120,0.630
-melancholic,85,0.385,0.200
-joy,90,0.640,0.590
-neutral,35,0,0
+joy,5,0.550,0.890
+pride,15,0.800,0.750
+relief,45,0.700,0.460
+fear,60,0.400,0.400
+envy,70,0.120,0.630
+sadness,85,0.385,0.200
+satisfaction,90,0.640,0.590
